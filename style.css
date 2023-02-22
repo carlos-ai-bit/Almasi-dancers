@@ -19,3 +19,26 @@ margin: 0.5rem;
 padding: 0.5rem;
 list-style: none;
 }
+.image{
+  height:42rem;
+  width: 100%;
+  background-color: red;
+  object-fit:cover;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
+section{
+  padding: 1rem;
+}
+h1{
+  text-align:left;
+  margin-top: 10px;
+}
+p{
+  text-align:start;
+  margin-top:1rem;
+  width: 80%;
+  font-family: 'Inter';
+}
